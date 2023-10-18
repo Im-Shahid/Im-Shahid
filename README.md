@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Im-Shahid
 - 👀 I’m interested in web developing
-- 🌱 I’m currently learning Reactt
+- 🌱 I’m currently learning React
 - 💞️ I’m looking for job
 - 📫 
 
